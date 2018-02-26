@@ -1,5 +1,0 @@
-#CerNerCompany
-while true; do
-./C run-helper
-sleep 7
-done
