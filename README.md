@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```git clone https://github.com/SCOURTEAM/TH3_VIP2 && cd TH3_VIP2 && chmod +x install.sh && ./install.sh```
+```git clone https://github.com/SCOURTEAM/TH3_VIP2 && cd TH3scour && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
