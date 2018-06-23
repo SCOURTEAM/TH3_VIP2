@@ -28,8 +28,8 @@ If you are not able to install the bot in Ubuntu 14, an upgrade to Ubuntu 16.04 
 
 After installing the dependencies, lets install the bot:
 ```bash
- git clone https://github.com/CerNerCompany/Anti-Spam
- cd Anti-*
+ git clone https://github.com/SCOURTEAM/TH3_VIP2
+ cd TH3_VIP2
  chmod +x C
  ./C install
  ./C config
@@ -40,11 +40,11 @@ After installing the dependencies, lets install the bot:
  ./C auto-run
 ```
 Developer:
-[Amir Bagheri](https://github.com/Codelua)
+[Amir Bagheri](https://github.com/TH3_VIP2)
 
 Company Channels:
 --------------------
-[CerNer Company](https://github.com/CerNerCompany)
+[CerNer Company](https://github.com/SCOURTEAM)
 
 -------------------
 More information [CerNer Company](https://t.me/joinchat/FbE8wFF2ImkSiaZbvFem4w)
